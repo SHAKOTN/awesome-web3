@@ -52,4 +52,8 @@ Tools:
 Tutorials:
 - [Cryptozombies](https://cryptozombies.io/en/) <br> Beginner guide to Ethereum development using smart contracts
 
+Wallets:
+- [Metamask](https://metamask.io/) <br> Most popular Ethereum hot wallet
+- [Exodus](https://www.exodus.com/) <br> Another popular Ethereum hot wallet
+
 ---
