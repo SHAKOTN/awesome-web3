@@ -19,6 +19,13 @@ List of awesome web3 resources including protocols, blockchain systems, web3 lib
 - [Bitcoin](https://bitcoin.org/en/) <br> A father of all blockchains. Bitcoin development on [Github](https://github.com/bitcoin)
 - [Script](https://en.bitcoin.it/wiki/Script) <br> Writing smart contracts on Bitcoin is possible, however, not that simple
 - [Lightning Network](https://lightning.network/) <br> L2 scaling solution for Bitcoin protocol, aimed to solved scalability problem
+- [Bitcoin fees calculator](https://bitcoinfees.net/) <br> Bitcoin fees calculation
+
+### Libraries and Tools
+- [bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib) <br> A javascript Bitcoin library for node.js and browsers
+
+#### Wallets:
+- [Exodus](https://www.exodus.com/) <br> Popular bitcoin hot wallet
 
 ---
 
@@ -49,10 +56,10 @@ Tools:
 - [Truffle](https://github.com/trufflesuite/truffle) <br> Another Ethereum development environment
 - [Ganache](https://github.com/trufflesuite/ganache) <br> Ethereum simulator for local(not only) development
 
-Tutorials:
+#### Tutorials:
 - [Cryptozombies](https://cryptozombies.io/en/) <br> Beginner guide to Ethereum development using smart contracts
 
-Wallets:
+#### Wallets:
 - [Metamask](https://metamask.io/) <br> Most popular Ethereum hot wallet
 - [Exodus](https://www.exodus.com/) <br> Another popular Ethereum hot wallet
 
