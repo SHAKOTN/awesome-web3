@@ -1,11 +1,10 @@
 # awesome-web3
-List of awesome web3 resources including protocols, blockchain systems, web3 libraries
+List of blockchain/web3 related resources. This includes different protocols, tools, libraries, concepts, wallets
 
 ## Table of contents
 - [Key concepts](#concepts)
 - [Blockchains](#blockchains)
     - [Bitcoin](#bitcoin)
-        * [Bitcoin basics](#bitcoin-basics)
         * [Libraries and tools](#bitcoin-libraries-and-tools)
         * [Wallets](#bitcoin-wallets)
     - [Ethereum](#ethereum)
@@ -13,6 +12,8 @@ List of awesome web3 resources including protocols, blockchain systems, web3 lib
         * [Tools](#ethereum-libraries-and-tools)
         * [Tutorials](#ethereum-tutorials)
         * [Wallets](#ethereum-wallets)
+    - [Cardano](#cardano)
+        * [Cardano basics](#cardano-basics)
 
 
 ## Concepts
@@ -21,7 +22,8 @@ List of awesome web3 resources including protocols, blockchain systems, web3 lib
 
 ## Blockchains
 
-## Bitcoin basics
+## Bitcoin
+Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.
 
 - [Bitcoin](https://bitcoin.org/en/) - A father of all blockchains. Bitcoin development on [Github](https://github.com/bitcoin)
 - [Script](https://en.bitcoin.it/wiki/Script) - Writing smart contracts on Bitcoin is possible, however, not that simple
@@ -36,10 +38,10 @@ List of awesome web3 resources including protocols, blockchain systems, web3 lib
 
 
 ## Ethereum
+[Ethereum](https://ethereum.org/en/)  is a blockchain platform with its own cryptocurrency, called Ether (ETH) or Ethereum, and its own programming language, called Solidity.
 
 ### Ethereum Basics
 
-- [Ethereum](https://ethereum.org/en/) - Blockchain and platform to execute smart contracts and to run decentralized web3 applications
 - [Solidity](https://github.com/ethereum/solidity) - Ethereum native language to write smart contracts
 - [Vyper](https://github.com/vyperlang/vyper) - Ethereum another native language for smart contracts development. Used less frequently than solidity
 - [EVM](https://ethereum.org/en/developers/docs/evm/) - Ethereum turing-complete virtual machine, runtime environment to execute smart contracts
@@ -72,3 +74,11 @@ Tools:
 - [Exodus](https://www.exodus.com/) - Another popular Ethereum hot wallet
 
 
+## Cardano
+
+[Cardano](https://cardano.org/) is a decentralized blockchain platform launched in 2017 by Ethereum co-founder Charles Hoskinson. Smart contracts launched in September 2021 and infrastracture is WIP.
+
+### Cardano basics
+
+- [Cardano smart contracts](https://github.com/cardano-foundation/docs-cardano-org/blob/main/explainers/cardano-explainers/smart-contract-exp.md) - what are cardano smart contracts
+- [Marlowe](https://docs.cardano.org/marlowe/learn-about-marlowe) - native language to write smart contracts on Cardano
