@@ -5,31 +5,39 @@ List of awesome web3 resources including protocols, blockchain systems, web3 lib
 - [Key concepts](#concepts)
 - [Blockchains](#blockchains)
     - [Bitcoin](#bitcoin)
+        * [Bitcoin basics](#bitcoin-basics)
+        * [Libraries and tools](#bitcoin-libraries-and-tools)
+        * [Wallets](#bitcoin-wallets)
     - [Ethereum](#ethereum)
+        * [Ethereum basics](#ethereum-basics)
+        * [Tools](#ethereum-libraries-and-tools)
+        * [Tutorials](#ethereum-tutorials)
+        * [Wallets](#ethereum-wallets)
 
 
 ## Concepts
-- [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work) <br>
-- [Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake) <br>
+- [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
+- [Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
 
 ## Blockchains
 
-## Bitcoin
+## Bitcoin basics
 
 - [Bitcoin](https://bitcoin.org/en/) - A father of all blockchains. Bitcoin development on [Github](https://github.com/bitcoin)
 - [Script](https://en.bitcoin.it/wiki/Script) - Writing smart contracts on Bitcoin is possible, however, not that simple
 - [Lightning Network](https://lightning.network/) - L2 scaling solution for Bitcoin protocol, aimed to solved scalability problem
 - [Bitcoin fees calculator](https://bitcoinfees.net/) - Bitcoin fees calculation
 
-### Libraries and Tools
+### Bitcoin Libraries and Tools
 - [bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers
 
-#### Wallets:
+#### Bitcoin Wallets:
 - [Exodus](https://www.exodus.com/) - Popular bitcoin hot wallet
 
----
 
 ## Ethereum
+
+### Ethereum Basics
 
 - [Ethereum](https://ethereum.org/en/) - Blockchain and platform to execute smart contracts and to run decentralized web3 applications
 - [Solidity](https://github.com/ethereum/solidity) - Ethereum native language to write smart contracts
@@ -39,7 +47,7 @@ List of awesome web3 resources including protocols, blockchain systems, web3 lib
 - [Polygon](https://github.com/maticnetwork) - L2 scaling solution for Ethereum. Most widely used as of 2021
 - [Arbitrum](https://github.com/OffchainLabs/arbitrum) - Another L2 scaling solution for Ethereum
 
-### Libraries and tools
+### Ethereum Libraries and tools
 
 Javascript:
 - [web3js](https://github.com/ChainSafe/web3.js) - One of the best libraries to interact with Ethereum network through JSON-RPC
@@ -56,11 +64,11 @@ Tools:
 - [Truffle](https://github.com/trufflesuite/truffle) - Another Ethereum development environment
 - [Ganache](https://github.com/trufflesuite/ganache) - Ethereum simulator for local(not only) development
 
-### Tutorials:
+### Ethereum Tutorials:
 - [Cryptozombies](https://cryptozombies.io/en/) - Beginner guide to Ethereum development using smart contracts
 
-### Wallets:
+### Ethereum Wallets:
 - [Metamask](https://metamask.io/) - Most popular Ethereum hot wallet
 - [Exodus](https://www.exodus.com/) - Another popular Ethereum hot wallet
 
----
+
