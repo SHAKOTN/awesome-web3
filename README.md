@@ -1,5 +1,5 @@
-# awesome-web3
-List of blockchain/web3 related resources. This includes different protocols, tools, libraries, concepts, wallets
+# Long list of web3 related resources
+> List of blockchain/web3 related resources. This includes different protocols, tools, libraries, concepts, wallets
 
 ## Table of contents
 - [Key concepts](#concepts)
@@ -9,6 +9,7 @@ List of blockchain/web3 related resources. This includes different protocols, to
         * [Wallets](#bitcoin-wallets)
     - [Ethereum](#ethereum)
         * [Ethereum basics](#ethereum-basics)
+        * [Ethereum 2.0](#ethereum-2)
         * [Tools](#ethereum-libraries-and-tools)
         * [Tutorials](#ethereum-tutorials)
         * [Wallets](#ethereum-wallets)
@@ -23,6 +24,8 @@ List of blockchain/web3 related resources. This includes different protocols, to
 ## Blockchains
 
 ## Bitcoin
+![](images/bitcoin.png)
+
 Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.
 
 - [Bitcoin](https://bitcoin.org/en/) - A father of all blockchains. Bitcoin development on [Github](https://github.com/bitcoin)
@@ -38,16 +41,25 @@ Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer 
 
 
 ## Ethereum
-[Ethereum](https://ethereum.org/en/)  is a blockchain platform with its own cryptocurrency, called Ether (ETH) or Ethereum, and its own programming language, called Solidity.
+![](images/ethereum-logo-landscape-purple.png)
+[Ethereum](https://ethereum.org/en/)  is a blockchain platform with its own cryptocurrency, called Ether (ETH) or Ethereum, and its own programming language, called Solidity. 
 
 ### Ethereum Basics
 
+- [Ethereum Book](https://github.com/ethereumbook/ethereumbook) - best way to dive deep into Ethereum ecosystem and learn about all key concepts, runtime and EVM
 - [Solidity](https://github.com/ethereum/solidity) - Ethereum native language to write smart contracts
 - [Vyper](https://github.com/vyperlang/vyper) - Ethereum another native language for smart contracts development. Used less frequently than solidity
 - [EVM](https://ethereum.org/en/developers/docs/evm/) - Ethereum turing-complete virtual machine, runtime environment to execute smart contracts
 - [Ethereum Gas Station](https://ethgasstation.info/) - Ethereum gas price estimator to predict gas consumption for smart contracts execution
 - [Polygon](https://github.com/maticnetwork) - L2 scaling solution for Ethereum. Most widely used as of 2021
 - [Arbitrum](https://github.com/OffchainLabs/arbitrum) - Another L2 scaling solution for Ethereum
+- [Etherscan](https://etherscan.io/) - Ethereum blockchain explorer
+
+
+### Ethereum 2
+Long term goal of switching from Proof of Work to Proof of Stake
+- [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) - Beacon chain is a parallel Eth chain that supports Proof of Stake consensus
+- [Sharding](https://eth.wiki/en/sharding/sharding-roadmap) - More of upcoming Ethereum sharding
 
 ### Ethereum Libraries and tools
 
@@ -75,6 +87,7 @@ Tools:
 
 
 ## Cardano
+![](images/cardano.png)
 
 [Cardano](https://cardano.org/) is a decentralized blockchain platform launched in 2017 by Ethereum co-founder Charles Hoskinson. Smart contracts launched in September 2021 and infrastracture is WIP.
 
