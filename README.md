@@ -80,6 +80,8 @@ Tools:
 
 ### Ethereum Tutorials:
 - [Cryptozombies](https://cryptozombies.io/en/) - Beginner guide to Ethereum development using smart contracts
+- [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c) - An article with everything you need to start with Ethereum
+- [Solidity by example](https://solidity-by-example.org/) - Intro to Solidity with simple examples
 
 ### Ethereum Wallets:
 - [Metamask](https://metamask.io/) - Most popular Ethereum hot wallet
