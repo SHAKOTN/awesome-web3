@@ -15,7 +15,8 @@
         * [Wallets](#ethereum-wallets)
     - [Cardano](#cardano)
         * [Cardano basics](#cardano-basics)
-
+- [Web3](#web3)
+    * [Decentralized Exchanges](#dexes)
 
 ## Concepts
 - [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
@@ -97,3 +98,11 @@ Tools:
 
 - [Cardano smart contracts](https://github.com/cardano-foundation/docs-cardano-org/blob/main/explainers/cardano-explainers/smart-contract-exp.md) - what are cardano smart contracts
 - [Marlowe](https://docs.cardano.org/marlowe/learn-about-marlowe) - native language to write smart contracts on Cardano
+
+
+## Web3
+Modern applications that are running on blockchains.
+
+## DeXes
+- [Uniswap](https://app.uniswap.org/#/swap) - most popular decentralized exchange built on Ethereum. Allows to exchange ERC20 tokens
+- [Sushiswap](https://app.sushi.com/swap) - Uniswap fork that is also quite popular for ERC20 swaps
