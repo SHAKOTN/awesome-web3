@@ -101,6 +101,7 @@ Tools:
 
 
 ## Web3
+![](images/web3.png)
 Modern applications that are running on blockchains.
 
 ## DeXes
