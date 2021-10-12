@@ -16,7 +16,9 @@
     - [Cardano](#cardano)
         * [Cardano basics](#cardano-basics)
 - [Web3](#web3)
-    * [Decentralized Exchanges](#dexes)
+    - [Decentralized Exchanges](#dexes)
+        * [Ethereum based](#ethereum-based)
+        * [Algorand based](#algorand-based)
 
 ## Concepts
 - [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
@@ -105,5 +107,11 @@ Tools:
 Modern applications that are running on blockchains.
 
 ## DeXes
-- [Uniswap](https://app.uniswap.org/#/swap) - most popular decentralized exchange built on Ethereum. Allows to exchange ERC20 tokens
+### Ethereum Based
+- [Uniswap](https://app.uniswap.org/#/swap) - Most popular decentralized exchange built on Ethereum. Allows to exchange ERC20 tokens
 - [Sushiswap](https://app.sushi.com/swap) - Uniswap fork that is also quite popular for ERC20 swaps
+- [PancakeSwap](https://pancakeswap.finance/swap) - Decentralized exchange running on Binance Smart Chain
+- [1inch](https://app.1inch.io/) - Another exchange aggregator that scans decentralized exchanges to find the lowest cryptocurrency prices for traders
+
+### Algorand Based
+- [TinyMan](https://app.tinyman.org/#/swap?asset_in=0) - First DeX running on Algorand Blockchain
